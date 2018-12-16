@@ -6,3 +6,4 @@ _site
 *.Rout
 *.pdf
 Gemfile.lock
+.RData
